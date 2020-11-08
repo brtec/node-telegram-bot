@@ -5,7 +5,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
-
+<br>
 <p align="center">
   <a href="https://github.com/brtec">
     <img src="https://cdn.discordapp.com/attachments/761310924292096000/774807309875675177/logonode.png" alt="BRTec Logo" width="100" height="69">
