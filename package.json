@@ -1,14 +1,26 @@
 {
-  "name": "telegram-bot",
+  "name": "node-telegram-bot",
   "version": "1.0.0",
-  "description": "Integracao node e telegram",
+  "description": "Versão de base de um BOT Telegram em NodeJs para aplicações diversas",
   "main": "index.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.50.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brtec/node-telegram-bot.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
   "author": "Bruno Rezende",
   "license": "ISC",
-  "dependencies": {
-    "node-telegram-bot-api": "^0.50.0"
-  }
+  "bugs": {
+    "url": "https://github.com/brtec/node-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/brtec/node-telegram-bot#readme"
 }
