@@ -60,13 +60,13 @@ npm install
 ```sh
 node index.js
 ```
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/brtec/node-telegram-bot.svg?style=flat-square
 [contributors-url]: https://github.com/brtec/node-telegram-bot/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/brtec/node-telegram-bot.svg?style=flat-square
 [forks-url]: https://github.com/brtec/node-telegram-bot/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/brtec/node-telegram-bot.svg?style=flat-square
 [stars-url]: https://github.com/brtec/node-telegram-bot/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/brtec/node-telegram-bot.svg?style=flat-square
 [issues-url]: https://github.com/brtec/node-telegram-bot/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/bruno-rezende-67720663/
