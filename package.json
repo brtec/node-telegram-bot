@@ -1,0 +1,14 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "Integracao node e telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruno Rezende",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.50.0"
+  }
+}
