@@ -1,8 +1,11 @@
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 
 <p align="center">
-  
+  <a href="https://github.com/brtec">
+    <img src="https://cdn.discordapp.com/attachments/761310924292096000/774807309875675177/logonode.png" alt="BRTec Logo" width="80" height="80">
+  </a>
 
   <h3 align="center">NodeJS - TelegramBot</h3>
 
@@ -53,5 +56,5 @@ npm install
 ```sh
 node index.js
 ```
-
+[linkedin-url]: https://www.linkedin.com/in/bruno-rezende-67720663/
 [product-screenshot]: https://cdn.discordapp.com/attachments/761310924292096000/774798284941688882/unknown.png
