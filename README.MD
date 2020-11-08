@@ -39,24 +39,29 @@ mkdir nomedodiretorio
 cd nomedodiretorio
 ```
 
-1. Clone o Repositório
+2. Clone o Repositório
 ```sh
 git clone https://github.com/brtec/node-telegram-bot.git
 ```
 
-2. Instale os pacotes NPM
+3. Entre na pasta clonada
+```sh
+cd node-telegram-bot
+```
+
+4. Instale os pacotes NPM
 ```sh
 npm install
 ```
 
-3. Insira suas configurações em ./src/config.json (Adquira um Token Aqui: https://telegram.me/BotFather)
+5. Insira suas configurações em ./src/config.json (Adquira um Token Aqui: https://telegram.me/BotFather)
 ```sh
 {
 	"BOT_TOKEN": "TOKEN TELEGRAM BOT"
 }
 ```
 
-4. Execute o script
+6. Execute o script
 ```sh
 node index.js
 ```
